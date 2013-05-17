@@ -8,4 +8,9 @@ polyglot
 
 Learn You a What for Great Good - Polyglot Lessons to Improve Your CFML
 
-Code for the other presentations will be available after I've given them!
+orm
+===
+
+ORM, NoSQL, and Vietnam
+
+Code for the other presentation will be available after I've given it on Friday!
